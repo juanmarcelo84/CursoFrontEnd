@@ -364,7 +364,11 @@ section[role=main] h4 strong {
 
 }
 
-#imprimircv {
+#printcv {
   cursor:pointer;
 }
-
+@media print{
+  .noprint {
+    visibility: hidden;
+  }
+}
