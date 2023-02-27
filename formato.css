@@ -35,7 +35,7 @@ body {
 **********/
 
 header {
-  background: #33a4c9;
+  background: #e94855;
   border-bottom: 1px solid #848484;
   padding: 19px 0;
   overflow: hidden;
@@ -128,7 +128,7 @@ section[role=main] h4 {
 }
 
 section[role=main] h4 strong {
-  color: #147393;
+  color: #e94855;
   font-weight: normal;
   font: 400 17px oswald, sans-serif;
 }
@@ -138,9 +138,7 @@ section[role=main] h4 strong {
   list-style: none;
 }
 
-/**************
-/* Knowledge 
-***************/
+
 
 .knowledge .values {
   padding: 0px;
@@ -164,7 +162,7 @@ section[role=main] h4 strong {
 	}
 
 .knowledge .values li span {
-  background: #33a4c9;
+  background: #e94855;
   bottom: -4px;
   content: ' ';
   display: block;
@@ -198,7 +196,7 @@ section[role=main] h4 strong {
   max-height: 0;
   left: -15px;
   top: 0;
-  color: #33a4c9;
+  color: #e94855;
   font-size: 20px;
 }
 
@@ -229,7 +227,7 @@ section[role=main] h4 strong {
 }
 
 .socialmedia {
-  color: #147393;
+  color: #0d0d0e;
 
 }
 
