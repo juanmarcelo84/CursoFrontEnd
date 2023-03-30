@@ -1,0 +1,11 @@
+$(document).ready(function() {
+           window.print();
+    $('#printcv').click(function(){
+		alert('prueba2');
+           return false;
+    });
+});
+
+function imprimir() {
+    window.print();
+}
